@@ -38,7 +38,7 @@ Paralelamente, el diseño de interfaces de usuario ha evolucionado con la adopci
 
 El presente proyecto nace de la convergencia de estas dos realidades: la necesidad de agilizar la elección de contenido de ocio en grupo y el aprovechamiento de una interfaz de swipe sincronizada en tiempo real.
 
-**1.2. Problema o necesidad detectada**
+### **1.2. Problema o necesidad detectada**
 
 El problema principal que aborda este proyecto es la parálisis por elección o choice overload que ocurre en reuniones sociales presenciales, ya sean parejas, grupos de amigos o familiares al intentar seleccionar una película, serie o videojuego para disfrutar en conjunto.
 
@@ -49,7 +49,7 @@ Esta problemática se manifiesta a través de los siguientes factores:
 * Sesgo de visibilidad: Tendencia a elegir siempre los mismos títulos o recomendaciones principales de las plataformas por fatiga de búsqueda, ignorando opciones del catálogo que complacerían a todos.  
 * Ausencia de herramientas: Inexistencia de una solución unificada que aplique esta dinámica tanto al sector cinematográfico como al de los videojuegos multijugador o cooperativos locales.
 
-**1.3. Propuesta de solución**
+### **1.3. Propuesta de solución**
 
 La solución propuesta consiste en el diseño y desarrollo de una aplicación móvil multiplataforma que automatiza el proceso de toma de decisiones en grupo.
 
