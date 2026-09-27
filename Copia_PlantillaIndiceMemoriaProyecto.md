@@ -32,13 +32,13 @@ LISTADO DE ACRÓNIMOS Y ABREVIATURAS
 
 ###    **1.1. Contexto del proyecto**
 
-	En la última década, la industria del entretenimiento digital ha experimentado una transformación radical impulsada por la proliferación de plataformas de streaming (como Netflix, HBO Max, Disney+ o Prime Video) y videojuegos (como Xbox Game Pass, PlayStation Plus o Steam). Esta oferta masiva ha democratizado el acceso al contenido, pero también ha generado un fenómeno social recurrente en reuniones presenciales o de ocio compartido: la incapacidad de tomar decisiones grupales de manera ágil.
+En la última década, la industria del entretenimiento digital ha experimentado una transformación radical impulsada por la proliferación de plataformas de streaming (como Netflix, HBO Max, Disney+ o Prime Video) y videojuegos (como Xbox Game Pass, PlayStation Plus o Steam). Esta oferta masiva ha democratizado el acceso al contenido, pero también ha generado un fenómeno social recurrente en reuniones presenciales o de ocio compartido: la incapacidad de tomar decisiones grupales de manera ágil.
 
 Paralelamente, el diseño de interfaces de usuario ha evolucionado con la adopción masiva de la mecánica de interacción mediante deslizamiento de tarjetas (swipe), popularizada originalmente por aplicaciones de citas como Tinder o Tiktok. Este patrón de diseño destaca por reducir ofrecer una respuesta visual inmediata y convertir procesos de decisión complejos en interacciones lúdicas e intuitivas.
 
 El presente proyecto nace de la convergencia de estas dos realidades: la necesidad de agilizar la elección de contenido de ocio en grupo y el aprovechamiento de una interfaz de swipe sincronizada en tiempo real.
 
-   **1.2. Problema o necesidad detectada**
+**1.2. Problema o necesidad detectada**
 
 El problema principal que aborda este proyecto es la parálisis por elección o choice overload que ocurre en reuniones sociales presenciales, ya sean parejas, grupos de amigos o familiares al intentar seleccionar una película, serie o videojuego para disfrutar en conjunto.
 
@@ -49,7 +49,7 @@ Esta problemática se manifiesta a través de los siguientes factores:
 * Sesgo de visibilidad: Tendencia a elegir siempre los mismos títulos o recomendaciones principales de las plataformas por fatiga de búsqueda, ignorando opciones del catálogo que complacerían a todos.  
 * Ausencia de herramientas: Inexistencia de una solución unificada que aplique esta dinámica tanto al sector cinematográfico como al de los videojuegos multijugador o cooperativos locales.
 
-    **1.3. Propuesta de solución**
+**1.3. Propuesta de solución**
 
 La solución propuesta consiste en el diseño y desarrollo de una aplicación móvil multiplataforma que automatiza el proceso de toma de decisiones en grupo.
 
@@ -57,13 +57,13 @@ El funcionamiento del sistema se basa en la creación de salas locales sincroniz
 
 Mediante un algoritmo de coincidencia (match), en el momento en que se detecta unanimidad (o la mayor puntuación ponderada), la aplicación detiene el proceso y muestra de forma destacada la opción elegida, indicando además la plataforma o medio en el que está disponible para su consumo inmediato.
 
-   **1.4. Objetivos del proyecto**
+**1.4. Objetivos del proyecto**
 
-      **1.4.1. Objetivo general**
+**1.4.1. Objetivo general**
 
 Diseñar, desarrollar e implementar una aplicación móvil multiplataforma que facilite la toma de decisiones grupales en la elección de películas, series y videojuegos, mediante una interfaz de deslizamiento de tarjetas (swipe) sincronizada en tiempo real entre múltiples dispositivos conectados a una misma sala virtual. 
 
-      **1.4.2. Objetivos específicos**
+**1.4.2. Objetivos específicos**
 
 * Analizar y definir los requisitos del sistema, identificando las necesidades clave de usabilidad (UX/UI) y sincronización en tiempo real.  
 * Integrar la aplicación con APIs externas de catálogos de entretenimiento (como TMDB para cine/series e IGDB para videojuegos) para mantener información, portadas y metadatos actualizados.  
@@ -72,7 +72,7 @@ Diseñar, desarrollar e implementar una aplicación móvil multiplataforma que f
 * Diseñar e implementar el algoritmo de asignación y cálculo de coincidencia (match), contemplando modalidades por unanimidad y por votación ponderada.  
 * Realizar pruebas de integración, rendimiento y usabilidad en dispositivos con sistemas operativos Android e iOS para validar la experiencia de usuario.
 
-   **1.5. Alcance del proyecto**
+**1.5. Alcance del proyecto**
 
 El alcance del proyecto abarca las siguientes áreas funcionales y técnicas:
 
@@ -83,7 +83,7 @@ El alcance del proyecto abarca las siguientes áreas funcionales y técnicas:
 * Módulo de Resultados e Información: Pantalla de victoria (Match) que muestra las plataformas donde consumir el contenido.  
 * Compatibilidad Multiplataforma: Despliegue funcional en dispositivos móviles Android e iOS.
 
-   **1.6. Limitaciones y exclusiones**
+**1.6. Limitaciones y exclusiones**
 
 ### Limitaciones
 
@@ -96,7 +96,7 @@ El alcance del proyecto abarca las siguientes áreas funcionales y técnicas:
 * Gestión de compras o suscripciones integradas: No se procesarán pagos dentro de la app ni se gestionarán las suscripciones de los usuarios a las plataformas de streaming.  
 * Red social persistente: En esta versión del proyecto no se incluirá un sistema de mensajería interna, chat global ni listas de amigos permanentes entre salas.
 
-   **1.7. Estructura de la memoria**
+**1.7. Estructura de la memoria**
 
 2\. ANÁLISIS DEL CONTEXTO Y VIABILIDAD
 
