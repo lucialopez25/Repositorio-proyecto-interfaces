@@ -101,8 +101,21 @@ El alcance del proyecto abarca las siguientes áreas funcionales y técnicas:
 2\. ANÁLISIS DEL CONTEXTO Y VIABILIDAD
 
    2.1. Sector profesional y perfil de usuarios
+   
+El proyecto se encuadra en el sector del desarrollo de software móvil y soluciones digitales para el ocio y entretenimiento. Se sitúa en la intersección entre las aplicaciones de recomendación de contenido y las herramientas de toma de decisiones grupales. 
+El público objetivo se divide en dos perfiles principales:
+* Usuario Principal (Gen Z y Millennials, 18-35 años): Nativos o adoptantes digitales avanzados, consumidores habituales de plataformas de streaming (Netflix, HBO Max, Disney+, Prime Video) y servicios de videojuegos (Xbox Game Pass, PlayStation Plus, Steam). Acostumbrados a la navegación por gestos en redes sociales y aplicaciones de citas y que valoran la inmediatez, la simplicidad visual y la ausencia de fricciones (como formularios de registro largos).
+* Usuario Secundario (Grupos familiares, amigos y parejas): Usuarios de diversa edad que buscan una herramienta funcional para resolver rápidamente la elección de ocio en el hogar durante los fines de semana o momentos de reunión.
+
 
    2.2. Análisis de la necesidad
+El crecimiento de los catálogos ha generado la paradoja de la elección: a mayor cantidad de opciones, mayor es la fatiga cognitiva y el tiempo requerido para tomar una decisión.
+
+El análisis de esta necesidad revela tres puntos de dolor fundamentales:
+* Sesgo de grupo y dominante: En las discusiones abiertas, la decisión suele inclinarse hacia la persona más firme del grupo, dejando insatisfechos a otros integrantes.
+* Tiempo de búsqueda desproporcionado: El tiempo invertido en seleccionar qué ver o a qué jugar llega a consumir una fracción significativa del tiempo libre total disponible.
+* Falta de una solución transversal: Las soluciones actuales suelen limitarse exclusivamente al cine o carecen de capacidades sincrónicas locales y transversales que incluyan videojuegos cooperativos/multijugador.
+
 
    2.3. Estudio de soluciones existentes
 
