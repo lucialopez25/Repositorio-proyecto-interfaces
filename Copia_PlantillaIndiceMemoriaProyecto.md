@@ -211,7 +211,44 @@ Para la aplicación se adopta el patrón MVC, que separa la aplicación en tres 
       5.3.4. Diccionario de datos
 
    5.4. Diseño de la interfaz de usuario
+   ### Paleta de colores
+| Rol | Proporción | Color | HEX | Función |
+|-----|-----------|-------|-----|---------|
+| **Principal** | 60% | Negro profundo | `#0D0E12` | Fondo general, base de toda la app |
+| **Secundario** | 30% | Gris carbón | `#1A1C23` | Tarjetas, superficies, modales, inputs |
+| **Acento** | 10% | Violeta eléctrico | `#7C3AED` | Botones, elementos activos |
 
+## ¿Por qué esta combinación?
+
+### Principal — Negro profundo `#0D0E12` (60%)
+
+- **Uso:** Fondo de toda la aplicación, detrás de las tarjetas y  en  las pantallas de carga
+- **Razón:** Es el que más se utilizan en apps dentro del mundo de los videojuegos (Discord [1], Twitch [2], Steam [3]). Ya que reduce la fatiga visual tras llevar mucho tiempo jugando [4] y hace que los artworks destaquen
+
+### Secundario — Gris carbón `#1A1C23` (30%)
+
+- **Uso:** En las tarjetas de los juegos, barra de pestañas
+- **Razón:** Crea una jerarquía visual sin romper la estética oscura [4]. Separando el contenido del fondo sin necesidad de bordes duros y actúa como el "lienzo" donde vive la información [5]
+
+### Acento — Violeta eléctrico `#7C3AED` (10%)
+
+- **Uso:** Botón principal, iconos activos, sliders, estados seleccionados
+- **Razón:** El violeta es el color que identifica al gaming (Twitch [2], Discord [1], Riot [5]). Generando un contraste alto sobre el fondo oscuro [6] y guía la atención a las acciones clave
+
+
+## Referencias
+
+[1] “Discord's Brand Guidelines”. Discord - Group Chat That’s All Fun & Games. Accedido el 27 de septiembre de 2026. https://discord.com/branding
+
+[2] “Brand Assets”. Brand Assets. Accedido el 27 de septiembre de 2026. https://brand.twitch.tv/
+
+[3] “Steam Store”. Welcome to Steam. Accedido el 27 de septiembre de 2026. https://store.steampowered.com/
+
+[4] “What is Dark Mode? — updated 2026”. IxDF - Interaction Design Foundation. Accedido el 27 de septiembre de 2026. https://www.interaction-design.org/literature/topics/dark-mode
+
+[5] “Riot Games. Developer of League of Legends, VALORANT, Teamfight Tactics, Legends of Runeterra, and Wild Rift. Creators of Arcane. Home of LOL and VALORANT Esports.” Riot Games. Accedido el 27 de septiembre de 2026. https://www.riotgames.com/
+
+[6] “Checking your browser - reCAPTCHA”. PubMed. Accedido el 27 de septiembre de 2026. https://pubmed.ncbi.nlm.nih.gov/23808916/
       5.4.1. Principios de usabilidad y accesibilidad
 
 	Usabilidad
