@@ -14,10 +14,10 @@ El problema principal que aborda este proyecto es la parálisis por elección o 
 
 Esta problemática se manifiesta a través de los siguientes factores:
 
-Pérdida de tiempo: Inversión de períodos prolongados (a menudo superiores a 30 minutos) navegando por los catálogos de distintas plataformas sin llegar a un acuerdo.
-Fricción e indecisión grupal: Conflictos o discusiones derivadas de opiniones encontradas, donde el debate abierto perjudica la experiencia de ocio.
-Sesgo de visibilidad: Tendencia a elegir siempre los mismos títulos o recomendaciones principales de las plataformas por fatiga de búsqueda, ignorando opciones del catálogo que complacerían a todos.
-Ausencia de herramientas: Inexistencia de una solución unificada que aplique esta dinámica tanto al sector cinematográfico como al de los videojuegos multijugador o cooperativos locales.
+* **Pérdida de tiempo:** Inversión de períodos prolongados (a menudo superiores a 30 minutos) navegando por los catálogos de distintas plataformas sin llegar a un acuerdo.
+* **Fricción e indecisión grupal:** Conflictos o discusiones derivadas de opiniones encontradas, donde el debate abierto perjudica la experiencia de ocio.
+* **Sesgo de visibilidad:** Tendencia a elegir siempre los mismos títulos o recomendaciones principales de las plataformas por fatiga de búsqueda, ignorando opciones del catálogo que complacerían a todos.
+* **Ausencia de herramientas:** Inexistencia de una solución unificada que aplique esta dinámica tanto al sector cinematográfico como al de los videojuegos multijugador o cooperativos locales.
 ### 1.3. Propuesta de solución
 La solución propuesta consiste en el diseño y desarrollo de una aplicación móvil multiplataforma que automatiza el proceso de toma de decisiones en grupo.
 
@@ -76,8 +76,6 @@ Usuario Secundario (Grupos familiares, amigos y parejas): Usuarios de diversa ed
 
 El análisis de esta necesidad revela tres puntos de dolor fundamentales:
 
-Sesgo de grupo y dominante: En las discusiones abiertas, la decisión suele inclinarse hacia la persona más firme del grupo, dejando insatisfechos a otros integrantes.
-
-Tiempo de búsqueda desproporcionado: El tiempo invertido en seleccionar qué ver o a qué jugar llega a consumir una fracción significativa del tiempo libre total disponible.
-
-Falta de una solución transversal: Las soluciones actuales suelen limitarse exclusivamente al cine o carecen de capacidades sincrónicas locales y transversales que incluyan videojuegos cooperativos/multijugador.
+* **Sesgo de grupo y dominante:** En las discusiones abiertas, la decisión suele inclinarse hacia la persona más firme del grupo, dejando insatisfechos a otros integrantes.
+* **Tiempo de búsqueda desproporcionado:** El tiempo invertido en seleccionar qué ver o a qué jugar llega a consumir una fracción significativa del tiempo libre total disponible.
+* **Falta de una solución transversal:** Las soluciones actuales suelen limitarse exclusivamente al cine o carecen de capacidades sincrónicas locales y transversales que incluyan videojuegos cooperativos/multijugador.
